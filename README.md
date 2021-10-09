@@ -50,4 +50,4 @@ dotnet tool install -g dotnet-aspnet-codegenerator
 ``` bash
 dotnet aspnet-codegenerator controller -name ClientesController -m Cliente -dc DbContexto --relativeFolderPath Controllers --useDefaultLayout
 ```
-
+Taís Nazaré
